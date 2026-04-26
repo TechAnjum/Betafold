@@ -1,4 +1,4 @@
-# This is my Final Year Major Project
+# BetaFold : This is my Final Year Major Project
 Protein structure prediction plays a critical role in understanding biological mechanisms and 
 developing new therapeutic strategies. Accurate structural information helps researchers 
 identify functional regions within proteins, study disease-causing mutations, and design 
