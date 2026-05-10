@@ -1,5 +1,5 @@
 # BetaFold : This is my Final Year Major Project 
-This is y Final Year project where i was a part in backend for AI along with Research Paper .
+This is my Final Year project where i was a part in backend for AI along with Research Paper .
 Protein structure prediction plays a critical role in understanding biological mechanisms and 
 developing new therapeutic strategies. Accurate structural information helps researchers 
 identify functional regions within proteins, study disease-causing mutations, and design 
